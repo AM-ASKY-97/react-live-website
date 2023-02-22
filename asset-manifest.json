@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-live-website/static/css/main.21d4763e.css",
+    "main.js": "/react-live-website/static/js/main.6ddf592c.js",
+    "static/js/787.22e3b59d.chunk.js": "/react-live-website/static/js/787.22e3b59d.chunk.js",
+    "static/media/m-logo.png": "/react-live-website/static/media/m-logo.4e4d5c917ea7aa9484e5.png",
+    "static/media/Forms-pana.svg": "/react-live-website/static/media/Forms-pana.7a575381644ca8dff819f38925622a12.svg",
+    "static/media/whatsapp.png": "/react-live-website/static/media/whatsapp.f2e80821c786a21249fa.png",
+    "static/media/img-1.jpg": "/react-live-website/static/media/img-1.9f244b3b5565a25de215.jpg",
+    "static/media/face.png": "/react-live-website/static/media/face.54b654601ea941cc9c3b.png",
+    "static/media/Link.png": "/react-live-website/static/media/Link.4e7351447b1da69f75f3.png",
+    "static/media/Youtube.png": "/react-live-website/static/media/Youtube.d3314fa414e7fa61a9f9.png",
+    "static/media/err-img.svg": "/react-live-website/static/media/err-img.8429d34672167175ab0c5b8fb51bd4f3.svg",
+    "static/media/github.png": "/react-live-website/static/media/github.a855c3975c028d8069f5.png",
+    "index.html": "/react-live-website/index.html",
+    "main.21d4763e.css.map": "/react-live-website/static/css/main.21d4763e.css.map",
+    "main.6ddf592c.js.map": "/react-live-website/static/js/main.6ddf592c.js.map",
+    "787.22e3b59d.chunk.js.map": "/react-live-website/static/js/787.22e3b59d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d4763e.css",
+    "static/js/main.6ddf592c.js"
+  ]
+}
